@@ -20,3 +20,7 @@
 6. Autoencoder Anomaly Detection
 7. Inference Pipeline
 8. Web Application
+
+## History
+
+https://app.notion.com/p/AI-VisionQC-3f171592195780d09251da0b07b5bd50?source=copy_link
